@@ -1,4 +1,6 @@
 Targeting-the-NSUN5-circPPAP2A-axis-reverses-immunosuppression and sensitizes renal cell carcinoma to anti-PD-1 therapy
+
+
 Abstract
 Background: The role of 5-methylcytosine (m5C) RNA modification in clear cell renal cell carcinoma (ccRCC) is recognized, yet its function and regulation on circular RNAs (circRNAs) remain uncharted. This study aims to identify key m5C regulators in ccRCC, with a focus on this under-explored circRNA dimension, and to determine their clinical significance.
 Methods: m5C-MeRIP-seq was performed on clinical samples. The expression and prognostic value of m5C regulators were analyzed using TCGA, ICGC, and SYSU cohort. Single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics were employed to decipher the tumor immune microenvironment. Functional experiments were conducted in vitro and in vivo. Mechanisms were investigated via RIP, RNA pull-down, and ChIP-qPCR. A nanoparticle-based siRNA delivery system was used for therapeutic assessment.
